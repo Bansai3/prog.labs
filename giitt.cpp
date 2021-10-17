@@ -20,5 +20,6 @@ int main()
         cout << b + c;
 
     }
+    cout << "That's all.";
 
 }
