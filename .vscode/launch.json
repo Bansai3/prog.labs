@@ -7,12 +7,12 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "c:\\Users\\user\\Desktop\\newgit",
+      "cwd": "c:\\Users\\Вадим\\Desktop\\pullrequest\\prog.labs",
       "environment": [],
-      "program": "c:\\Users\\user\\Desktop\\newgit\\build\\Debug\\outDebug",
+      "program": "c:\\Users\\Вадим\\Desktop\\pullrequest\\prog.labs\\build\\Debug\\outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
       "externalConsole": false,
       "setupCommands": [
         {
