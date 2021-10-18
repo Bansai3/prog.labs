@@ -1,5 +1,5 @@
 #include <iostream>>
-#inckude<fstream>
+#include<fstream>
 using namespace std;
 
 int main()
